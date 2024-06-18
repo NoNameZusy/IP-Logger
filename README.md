@@ -5,8 +5,6 @@
 
 # Code :
 `git clone https://github.com/NoNameZusy/IP-Logger.git`
-
 `cd IP-Logger`
-
 `bash iplogger.sh`
 
